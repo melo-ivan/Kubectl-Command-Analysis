@@ -1,0 +1,8 @@
+/analise-comandos-kubectl
+│
+├── README.md          # Descrição do projeto
+├── LICENSE            # Licença do projeto
+├── .gitignore         # Arquivos a serem ignorados pelo Git
+├── src                # Código-fonte
+│   └── análise.py     # Script principal para análise
+└── data               # Dados de entrada, se aplicável
